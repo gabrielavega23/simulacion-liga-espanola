@@ -3,4 +3,6 @@ Simulación de la tabla de clasificaciones de la liga para predecir resultados d
 * Ángel Gomez
 * Juan Albarracin
 * Gabriela Vega
+
+link para el video:
 https://player.vimeo.com/video/402339011
